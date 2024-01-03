@@ -1,5 +1,5 @@
 def imageName="szymonov/backend"
-def dockerTag="backend"
+def dockerTag=""
 def dockerRegistry=""
 def registryCredentials="dockerhub"
 
